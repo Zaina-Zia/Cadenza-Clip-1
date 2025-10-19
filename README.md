@@ -1,6 +1,6 @@
 # 🎵 Cadenza Lyric Intelligibility Challenge
 
-The **Cadenza Lyric Intelligibility Challenge (CLIC)** is a research-driven initiative that explores how well humans and machine systems can understand sung lyrics under varying acoustic and musical conditions.  
+The **Cadenza Lyric Intelligibility Challenge (CLIP1)** is a research-driven initiative that explores how well humans and machine systems can understand sung lyrics under varying acoustic and musical conditions.  
 It aims to bridge the gap between **music production, speech science, and AI** by evaluating intelligibility across diverse singing styles, languages, and recording contexts.
 
 ---
