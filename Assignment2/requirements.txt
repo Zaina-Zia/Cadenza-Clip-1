@@ -1,0 +1,26 @@
+numpy
+scipy
+pandas
+tqdm
+soundfile
+librosa
+pystoi
+torch
+torchaudio
+torchvision
+openai-whisper
+transformers
+datasets
+accelerate
+matplotlib
+seaborn
+demucs
+ujson
+
+# For CNN/MFCC and ML utilities
+scikit-learn
+
+# HuggingFace audio + Wav2Vec2 support
+huggingface-hub
+sentencepiece
+protobuf==3.20.*
