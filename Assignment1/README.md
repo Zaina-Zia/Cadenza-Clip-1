@@ -1,6 +1,4 @@
-===========================
-CADENZA LYRIC INTELLIGIBILITY CLIP1
-===========================
+# CADENZA LYRIC INTELLIGIBILITY CLIP1
 
 Project: Cadenza Lyric Intelligibility – Assignment 1  
 Course: CS-272 (Artificial Intelligence)  
