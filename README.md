@@ -16,7 +16,7 @@ The ultimate goal is to **advance tools that support artists, engineers, and res
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 The dataset includes:
 - **Studio and live vocal recordings** with controlled background conditions  
 - **Perceptual scores** collected from listening tests evaluating intelligibility  
