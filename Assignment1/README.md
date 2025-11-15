@@ -18,7 +18,7 @@ FOLDER STRUCTURE
 Drive Folder:
 
 https://drive.google.com/drive/folders/1AyxKiMaFDNRWukbQWuwJxnbhnyxe9WzX?usp=drive_link
-
+```
 cadenza_lyric_intelligibility_challenge/
 │
 ├── data/
@@ -35,8 +35,7 @@ cadenza_lyric_intelligibility_challenge/
 │   ├── README.txt               → This description file
 │   ├── requirements.txt         → Python dependencies
 │   └── Team_Invictus_CADENZA_CLIP1.pdf         → Written report 
-
----------------------------
+```
 HOW TO USE
 ---------------------------
 
@@ -48,18 +47,15 @@ HOW TO USE
 
 3. Run cells sequentially to reproduce results.
 
----------------------------
 NOTES
 ---------------------------
 - Place all required dataset files inside the `data/` directory before running the notebook.
 - Generated plots will automatically be saved in the `plots/` folder.
 - The `requirements.txt` lists all Python libraries used for audio analysis and visualization.
 
----------------------------
 AUTHOR
 ---------------------------
 Created by: Maham Mansoor, Rudaina Aamir, Wamiq ul Islam, Zaina Zia 
 Date: October 2025  
 Purpose: University Assignment (Cadenza Lyric Intelligibility Challenge)
 
-===========================
