@@ -1,11 +1,11 @@
-# 🎵 Cadenza Lyric Intelligibility Challenge
+#  Cadenza Lyric Intelligibility Challenge
 
 The **Cadenza Lyric Intelligibility Challenge (CLIP1)** is a research-driven initiative that explores how well humans and machine systems can understand sung lyrics under varying acoustic and musical conditions.  
 It aims to bridge the gap between **music production, speech science, and AI** by evaluating intelligibility across diverse singing styles, languages, and recording contexts.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The challenge focuses on **predicting and analyzing lyric intelligibility** — how clearly words are perceived when sung.  
 Participants develop computational models or analytical pipelines to:
 - Assess the intelligibility of vocal recordings  
@@ -26,7 +26,7 @@ These data allow participants to investigate how production choices, vocal style
 
 ---
 
-## 🔬 Research Themes
+##  Research Themes
 - Speech intelligibility modeling in musical contexts  
 - Audio feature extraction and signal processing for sung vocals  
 - Cross-domain analysis between speech and music perception  
@@ -34,7 +34,7 @@ These data allow participants to investigate how production choices, vocal style
 
 ---
 
-## 🏆 Challenge Tracks
+##  Challenge Tracks
 1. **Predictive Modeling Track:**  
    Build models that estimate human-rated lyric intelligibility from audio features.  
 
@@ -44,6 +44,6 @@ These data allow participants to investigate how production choices, vocal style
 
 ---
 
-## 🔗 Learn More
+##  Learn More
 For full details, visit the official challenge page:  
-👉 [https://cadenzachallenge.org/docs/clip1/intro](https://cadenzachallenge.org/docs/clip1/intro)
+[https://cadenzachallenge.org/docs/clip1/intro](https://cadenzachallenge.org/docs/clip1/intro)
